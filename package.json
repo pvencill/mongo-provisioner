@@ -1,6 +1,6 @@
 {
   "name": "mongo-provisioner",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A tool for provisioning new Mongo databases with unique DB owners and rights provisioned. Useful in a PaaS environment.",
   "main": "./lib/index.js",
   "repository": {
